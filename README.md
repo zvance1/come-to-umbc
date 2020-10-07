@@ -29,22 +29,22 @@ Looping through and querying for each category, I ended up with 8752 rows of dat
 
 **Python Notebooks:**
 <br>
-[Exploratory Data Analysis](https://github.com/zgvance/come-to-umbc/blob/master/notebooks/clean-and-explore.ipynb)
+[Exploratory Data Analysis](https://github.com/zvance1/come-to-umbc/blob/master/notebooks/clean-and-explore.ipynb)
 Note: Not all exploratory analysis made it into the final techincal report - only what I saw as most relevant.
 <br>
-[Technical Notebook](https://github.com/zgvance/come-to-umbc/blob/master/notebooks/technical-report.ipynb)
+[Technical Notebook](https://github.com/zvance1/come-to-umbc/blob/master/notebooks/technical-report.ipynb)
 
 **Data Folder (all downloaded data and modified datasets used in our final python notebooks):**
 <br>
-[Data](https://github.com/zgvance/come-to-umbc/tree/master/data)
+[Data](https://github.com/zvance1/come-to-umbc/tree/master/data)
 
 **Data Visualizations Folder (any visualizations used in our final python notebooks or presentation):**
 <br>
-[Data Visualizations](https://github.com/zgvance/come-to-umbc/tree/master/images)
+[Data Visualizations](https://github.com/zvance1/come-to-umbc/tree/master/images)
 
 **Python Folder (any python files used in our final python notebooks, and other python notebooks used for testing):**
 <br>
-[Python Files and Notebooks](https://github.com/zgvance/come-to-umbc/tree/master/notebooks)
+[Python Files and Notebooks](https://github.com/zvance1/come-to-umbc/tree/master/notebooks)
 
 
 # Project Info

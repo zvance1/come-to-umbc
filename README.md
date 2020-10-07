@@ -34,15 +34,15 @@ Note: Not all exploratory analysis made it into the final techincal report - onl
 <br>
 [Technical Notebook](https://github.com/zvance1/come-to-umbc/blob/master/notebooks/technical-report.ipynb)
 
-**Data Folder (all downloaded data and modified datasets used in our final python notebooks):**
+**Data Folder (all data in csv format, used in our final python notebooks):**
 <br>
 [Data](https://github.com/zvance1/come-to-umbc/tree/master/data)
 
-**Data Visualizations Folder (any visualizations used in our final python notebooks or presentation):**
+**Data Visualizations Folder (all visualizations used in our final python notebook):**
 <br>
 [Data Visualizations](https://github.com/zvance1/come-to-umbc/tree/master/images)
 
-**Python Folder (any python files used in our final python notebooks, and other python notebooks used for testing):**
+**Python Folder (python technical report notebook, and a notebook that fetches the data, and another for the exploration):**
 <br>
 [Python Files and Notebooks](https://github.com/zvance1/come-to-umbc/tree/master/notebooks)
 
